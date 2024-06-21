@@ -89,13 +89,13 @@ BEGIN
     BEGIN
         BLOCK "040904e4"
         BEGIN
-            VALUE "CompanyName", "com.chabot" "\0"
-            VALUE "FileDescription", "chabot" "\0"
+            VALUE "CompanyName", "com.chatbot" "\0"
+            VALUE "FileDescription", "chatbotai" "\0"
             VALUE "FileVersion", VERSION_AS_STRING "\0"
-            VALUE "InternalName", "chabot" "\0"
-            VALUE "LegalCopyright", "Copyright (C) 2024 com.chabot. All rights reserved." "\0"
-            VALUE "OriginalFilename", "chabot.exe" "\0"
-            VALUE "ProductName", "chabot" "\0"
+            VALUE "InternalName", "chatbotai" "\0"
+            VALUE "LegalCopyright", "Copyright (C) 2024 com.chatbot. All rights reserved." "\0"
+            VALUE "OriginalFilename", "chatbotai.exe" "\0"
+            VALUE "ProductName", "chatbotai" "\0"
             VALUE "ProductVersion", VERSION_AS_STRING "\0"
         END
     END
