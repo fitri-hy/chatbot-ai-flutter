@@ -19,6 +19,6 @@ flutter run
 - Java 22.0.1
 
 ## Demo
-- <a href="https://github.com/fitri-hy/chatbot-ai-flutter/blob/f1a02334cf5d08f10e5af02eb919f81118874b35/demo/web-version.zip">Web Version</a>
-- <a href="https://github.com/fitri-hy/chatbot-ai-flutter/blob/f1a02334cf5d08f10e5af02eb919f81118874b35/demo/app-release.apk">Apk Version</a>
-- <a href="https://github.com/fitri-hy/chatbot-ai-flutter/blob/f1a02334cf5d08f10e5af02eb919f81118874b35/demo/app-release.aab">Abb Version</a>
+- <a href="blob:https://github.com/6cf56108-38fc-4363-977d-7eae39a9cc68">Web Version</a>
+- <a href="blob:https://github.com/a66a891a-712d-4639-a043-906925f171e3">Apk Version</a>
+- <a href="blob:https://github.com/9a607913-4e9c-4ac4-8271-dcb1b3306832">Abb Version</a>
