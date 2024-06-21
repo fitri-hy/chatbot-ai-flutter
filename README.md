@@ -2,18 +2,18 @@
 
 Integrated Chatbot App by Gemini AI built with Flutter
 
-## Getting Started
+<img src="./screenshoot/ss.png">
 
-This project is a starting point for a Flutter application.
+## Installer
+```
+git clone https://github.com/fitri-hy/chatbot-ai-flutter.git
+cd chatbot-ai-flutter
+flutter pub get
+flutter run
+```
 
-A few resources to get you started if this is your first Flutter project:
-
-- [Lab: Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://docs.flutter.dev/cookbook)
-
-For help getting started with Flutter development, view the
-[online documentation](https://docs.flutter.dev/), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
-
-<img src="./screenshoot/light.png">
-<img src="./screenshoot/dark.png">
+## Required
+- Flutter 3.22.2
+- SDK 34.0.0
+- JDK 19
+- Java 22.0.1
