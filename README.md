@@ -2,8 +2,8 @@
 
 Integrated Chatbot App by Gemini AI built with Flutter
 
-<img src="./screenshoot/light.png">
-<img src="./screenshoot/dark.png">
+<img src="./screenshoot/light.png" width="200">
+<img src="./screenshoot/dark.png" width="200">
 
 ## Getting Started
 
